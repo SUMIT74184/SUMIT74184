@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnkvak.medium.com%2Ffrom-ux-to-web-development-c119a3171bf9&psig=AOvVaw1b5a6E4RKz_VXeI3Gs_rSk&ust=1713424971541000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDA9NTbyIUDFQAAAAAdAAAAABAK)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/0*FGD6BUzzZs1VJLuY.gif)
 <h1 align="center">Hi 👋, I'm Sumit Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
