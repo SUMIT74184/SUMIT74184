@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React.js & DevOps**
 - 💬 Ask me about **MERN Stack, Java, Spring Boot, DSA**
 - 📫 Reach me at: **rais74184@gmail.com**
-- 🧠 Solved **900+ DSA problems** and counting!
+- 🧠 Solved **400+ DSA problems** and counting!
 - ⚡ Fun fact: I love building real-world apps from scratch
 
 ---
